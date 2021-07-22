@@ -1,0 +1,56 @@
+.app-container {
+  background: rgb(83, 66, 75);
+  background: linear-gradient(0deg, rgb(73, 62, 67) 0%, rgb(87, 77, 69) 100%);
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  padding-top: 3%;
+}
+
+.nav-link {
+  background-color: rgb(234, 236, 255);
+}
+
+.app-title {
+  color: rgb(141, 159, 235);
+  padding-left: 2%;
+  padding-bottom: 3%;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.user-link {
+  padding: 1% 0 1% 2%;
+}
+
+.user-name {
+  color: aliceblue;
+  text-decoration: none;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.user-name:hover {
+  background-color: aliceblue;
+  color: rgb(83, 66, 75);
+  text-decoration: none;
+  padding: 1%;
+}
+
+.user-container {
+  background: aliceblue;
+  color: rgb(83, 66, 75);
+  padding-left: 2%;
+  padding-bottom: 3%;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.user-title {
+  color: rgb(83, 66, 75);
+  padding-bottom: 2%;
+  padding-top: 2%;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.user-data {
+  font-family: "Noto Sans KR", sans-serif;
+  color: rgb(83, 66, 75);
+}
